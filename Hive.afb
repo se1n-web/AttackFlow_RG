@@ -19,7 +19,7 @@
                     [
                         [
                             "name",
-                            "Null"
+                            null
                         ],
                         [
                             "identity_class",
